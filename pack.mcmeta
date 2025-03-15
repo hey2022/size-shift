@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Titan shifting",
+    "pack_format": 61,
+    "supported_formats": [57, 61]
+  }
+}
