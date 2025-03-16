@@ -7,3 +7,4 @@ attribute @s minecraft:entity_interaction_range modifier add shift:entity_intera
 attribute @s minecraft:water_movement_efficiency modifier add shift:water_movement_efficiency 1 add_value
 effect give @s minecraft:instant_health 1 28 true
 effect give @s minecraft:saturation 1 255 true
+scoreboard players reset @s shift_midget

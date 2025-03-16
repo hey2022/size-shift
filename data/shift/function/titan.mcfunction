@@ -17,3 +17,4 @@ attribute @s minecraft:fall_damage_multiplier modifier add shift:fall_damage_mul
 attribute @s minecraft:explosion_knockback_resistance modifier add shift:explosion_knockback_resistance -0.5 add_value
 effect give @s minecraft:instant_health 1 28 true
 effect give @s minecraft:saturation 1 255 true
+scoreboard players reset @s shift_titan

@@ -15,3 +15,4 @@ attribute @s minecraft:safe_fall_distance modifier remove shift:safe_fall_distan
 attribute @s minecraft:fall_damage_multiplier modifier remove shift:fall_damage_multiplier
 attribute @s minecraft:explosion_knockback_resistance modifier remove shift:explosion_knockback_resistance
 attribute @s minecraft:water_movement_efficiency modifier remove shift:water_movement_efficiency
+scoreboard players reset @s shift_reset
