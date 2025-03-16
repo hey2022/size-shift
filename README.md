@@ -1,6 +1,6 @@
 # size-shift
 
-Shift sizes in Minecraft, adjusting for speed and strength.
+A datapack for shifting sizes in Minecraft, adjusting for speed and strength.
 
 ## Usage
 
