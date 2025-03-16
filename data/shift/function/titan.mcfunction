@@ -15,6 +15,5 @@ attribute @s minecraft:entity_interaction_range modifier add shift:entity_intera
 attribute @s minecraft:safe_fall_distance modifier add shift:safe_fall_distance 4 add_multiplied_base
 attribute @s minecraft:fall_damage_multiplier modifier add shift:fall_damage_multiplier -0.9 add_multiplied_base
 attribute @s minecraft:explosion_knockback_resistance modifier add shift:explosion_knockback_resistance -0.5 add_value
-effect give @s minecraft:instant_health 1 28 true
-effect give @s minecraft:saturation 1 255 true
+function shift:heal
 scoreboard players reset @s shift_titan
