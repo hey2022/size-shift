@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Titan shifting",
+    "description": "Shift sizes",
     "pack_format": 61,
     "supported_formats": [57, 61]
   }
